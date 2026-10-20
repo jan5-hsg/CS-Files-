@@ -1,1 +1,3 @@
-print("Hello World")
+import strealit as st 
+
+st.write("conected")
